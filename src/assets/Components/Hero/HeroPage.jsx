@@ -29,7 +29,7 @@ const HeroPage = () => {
             <img src="shoe_image(1).png" alt="shoe image" />
             
         </div>
-        
+        {/* this is my */}
 
 
 
